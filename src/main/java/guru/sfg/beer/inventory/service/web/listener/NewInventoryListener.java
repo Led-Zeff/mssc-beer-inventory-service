@@ -5,7 +5,7 @@ import javax.transaction.Transactional;
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Service;
 
-import courses.microservices.beerservice.event.NewInventoryEvent;
+import courses.microservices.brewery.event.NewInventoryEvent;
 import guru.sfg.beer.inventory.service.config.JmsConfig;
 import guru.sfg.beer.inventory.service.domain.BeerInventory;
 import guru.sfg.beer.inventory.service.repositories.BeerInventoryRepository;

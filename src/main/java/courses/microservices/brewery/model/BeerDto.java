@@ -1,4 +1,4 @@
-package courses.microservices.beerservice.event;
+package courses.microservices.brewery.model;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
