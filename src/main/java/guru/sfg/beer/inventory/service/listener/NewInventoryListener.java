@@ -1,4 +1,4 @@
-package guru.sfg.beer.inventory.service.web.listener;
+package guru.sfg.beer.inventory.service.listener;
 
 import javax.transaction.Transactional;
 
